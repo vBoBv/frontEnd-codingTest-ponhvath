@@ -22,6 +22,11 @@ Start the server:
 <pre>
   <code> npm start </code>
 </pre>
+Note:
+ Source code of the task has been made under the ExampleTable component.
+ <pre>
+  <code> src/components/task/ExampleTable.jsx</code>
+ </pre>
 
 
 <!-- ABOUT THE TASK -->
