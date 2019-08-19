@@ -82,4 +82,4 @@ During the design and development process, I tested a few case studies and got t
 
 
 ### Implementation
-As the findings came to an end, I decided to implement React-Table to store the data of the sales transactions in the final product. During this project I valued my learning process as much as the final product, I preferred to take the longer route to complete the task as I allowed me to have a deeper understanding in how functions are coded and developed step by step. Material-UI Datatables is powerful in terms of functionalities, therefore in future projects I will be transitioning from React-Table to Material-UI Datatables.
+As the findings came to an end, I decided to implement React-Table to store the data of the sales transactions in the final product. During this project I valued my learning process as much as the final product, I preferred to take the longer route to complete the task as it allowed me to have a deeper understanding in how functions are coded and developed step by step. Material-UI Datatables is powerful in terms of functionalities, therefore in future projects I will be transitioning from React-Table to Material-UI Datatables.
