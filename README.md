@@ -68,20 +68,18 @@ process produced 3 findings which are:
 ### Findings
 During the design and development process, I tested a few case studies and got the result as follows:
 * Fetch API
-  * It is used to fetch the data from a website and parse the data into JSON
-  * JSON data is parsed into an array by using map method
+  * It is used to fetch the data from a website and parse the data into JSON.
+  * JSON data is parsed into an array by using map method.
 * Material-UI Datatables
-  * The array is used to parse the data in every column in Material-UI Table
-  * Filtering, sorting and many other useful functions were already implemented with the MUI Table packages
-  * The packages provide a format which is very clean, tidy and most of the functionalities are already provided
-  * I decided not to use Material-UI Datatables because it does not allow for heavy customization of the code
+  * The array is used to parse the data in every column in Material-UI Table.
+  * Filtering, sorting and many other useful functions were already implemented with the MUI Table packages.
+  * The packages provide a format which is very clean, tidy and most of the functionalities are already provided.
+  * I decided not to use Material-UI Datatables because the library already contained the functions and I preferred to code the functions myself for deeper understanding and learning.
 * React-Table:
-  * The data in the array is parsed into React-table
-  * The format of the table is very basic
-  * This method allows me to customize the code more such as choosing what data to display, what not to be displayed and manually create my own filter functions
+  * The data in the array is parsed into React-table.
+  * The format of the table is very basic.
+  * I decided to use React-Table as it required me to code the functions rather than just implementing them from a given library, for deeper understanding and learning.
 
 
 ### Implementation
-As the findings came to an end, I decided to implement React-Table to store the data of the sales transactions in the final product.
-In conclusion, even though Material-UI Datatables is quiet powerful in terms of functionalities over React-table but I prefer to have the freedom to customize the code and functions.
-
+As the findings came to an end, I decided to implement React-Table to store the data of the sales transactions in the final product. During this project I valued my learning process as much as the final product, I preferred to take the longer route to complete the task as I allowed me to have a deeper understanding in how functions are coded and developed step by step. Material-UI Datatables is powerful in terms of functionalities, therefore in future projects I will be transitioning from React-Table to Material-UI Datatables.
