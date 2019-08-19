@@ -74,16 +74,14 @@ During the design and development process, I tested a few case studies and got t
   * The array is used to parse the data in every column in Material-UI Table
   * Filtering, sorting and many other useful functions were already implemented with the MUI Table packages
   * The packages provide a format which is very clean, tidy and most of the functionalities are already provided
-  * This is why I decided not to use Material-UI Datatables because there is a very minimal required coding work from me
+  * I decided not to use Material-UI Datatables because it does not allow for heavy customization of the code
 * React-Table:
   * The data in the array is parsed into React-table
   * The format of the table is very basic
-  * It required me to do coding for choosing what data that need to be display, what not to be displayed and manually create my own
-  filter functions
+  * This method allows me to customize the code more such as choosing what data to display, what not to be displayed and manually create my own filter functions
 
 
 ### Implementation
-As the findings came to an end, I decided to implement React-Table to store the data of the sales transactions as a final product.
-In conclusion, even though Material-UI Datatables is quiet powerful in terms of functionalities over React-table but I am more
-satisfied to code my own functions.
+As the findings came to an end, I decided to implement React-Table to store the data of the sales transactions in the final product.
+In conclusion, even though Material-UI Datatables is quiet powerful in terms of functionalities over React-table but I prefer to have the freedom to customize the code and functions.
 
