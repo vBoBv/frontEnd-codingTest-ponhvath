@@ -1,6 +1,6 @@
 <h2 align="center">Front End Development Internship Programme Assesment</h2>
 <h3>Datatable for Sales Transaction</h3>
-![Sales Transactions Demo](vBoBv/frontEnd-quantifulTest-ponhvath/demo/demo.gif)
+![Sales Transactions Demo](frontEnd-quantifulTest-ponhvath/demo/demo.gif)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
