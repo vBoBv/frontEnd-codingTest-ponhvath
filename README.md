@@ -1,6 +1,6 @@
 <h2 align="center">Front End Development Internship Programme Assesment</h2>
 <h3>Datatable for Sales Transaction</h3>
-<p>gif here</p>
+![Sales Transactions Demo](demo/demo.gif)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
