@@ -25,7 +25,7 @@ Run this code:
   <code> npm start </code>
 </pre>
 Note:
- Source code of the task has been made under the ExampleTable component.
+ Source code of the task has been made in the ExampleTable component.
  <pre>
   <code> src/components/task/ExampleTable.jsx</code>
  </pre>
