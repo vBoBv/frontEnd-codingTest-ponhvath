@@ -15,12 +15,13 @@
   * [Implementation](#implementation)
 
 ## Run the Project
-Set directory to fed-intern-test-2019:
+Set directory to frontEnd-quantifulTest-ponhvath-master:
 <pre>
-  <code> cd frontEnd-quantifulTest-ponhvath </code>
+  <code> cd frontEnd-quantifulTest-ponhvath-master </code>
 </pre>
-Start the server:
+Run this code:
 <pre>
+  <code> npm install </code>
   <code> npm start </code>
 </pre>
 Note:
