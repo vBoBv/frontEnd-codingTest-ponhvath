@@ -1,4 +1,4 @@
-<h2 align="center">Front End Development Internship Programme Assesment</h2>
+<h2 align="center">Quantiful Front End Development Internship Programme Assesment</h2>
 <h3>Datatable for Sales Transactions</h3>
 
 ![demo](https://user-images.githubusercontent.com/37789673/63232561-0b6e7680-c27d-11e9-835b-04f03a586b36.gif)
