@@ -14,7 +14,7 @@ class ExampleTable extends Component {
     componentDidMount() {
         fetch("http://www.mocky.io/v2/5d4caeb23100000a02a95477")
             .then(response => response.json())      //Convert response into JSON
-            .then(saleInfo => { this.setState({saleInfo: saleInfo})})      //Fill the array with JSON file
+            .then(saleInfo => { this.setState({saleInfo: saleInfo})})      //Fill the array with JSON data
     }
 
     render() {
